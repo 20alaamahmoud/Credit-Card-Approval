@@ -19,3 +19,10 @@
   - Handling Outliers: Identified using Interquartile Range (IQR) and treated accordingly.
   - Data Standardization: Features are standardized using StandardScaler to improve model performance.
   - Handling Class Imbalance: Techniques such as oversampling or undersampling are applied to balance the dataset.
+
+# Model Training and Evaluation
+  - Two models were trained and evaluated:
+    1- Gradient Boosting Classifier
+      - Used for feature importance and preliminary evaluation.
+    2- XGBoost Classifier
+      - A more optimized version of boosting, providing better accuracy and AUC scores.
