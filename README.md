@@ -21,8 +21,8 @@
   - Handling Class Imbalance: Techniques such as oversampling or undersampling are applied to balance the dataset.
 
 # Model Training and Evaluation
-  - Two models were trained and evaluated:
-    1- Gradient Boosting Classifier
+Two models were trained and evaluated:
+  - Gradient Boosting Classifier
       - Used for feature importance and preliminary evaluation.
-    2- XGBoost Classifier
+  - XGBoost Classifier
       - A more optimized version of boosting, providing better accuracy and AUC scores.
