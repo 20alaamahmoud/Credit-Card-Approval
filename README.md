@@ -26,3 +26,8 @@ Two models were trained and evaluated:
       - Used for feature importance and preliminary evaluation.
   - XGBoost Classifier
       - A more optimized version of boosting, providing better accuracy and AUC scores.
+   
+# Performance Metrics
+  - Accuracy: Measures overall correctness of predictions.
+  - ROC-AUC Score: Evaluates the model’s ability to distinguish between approved and rejected applicants.
+  - Classification Report: Provides precision, recall, and F1-score for each class.
