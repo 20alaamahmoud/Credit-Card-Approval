@@ -31,3 +31,9 @@ Two models were trained and evaluated:
   - Accuracy: Measures overall correctness of predictions.
   - ROC-AUC Score: Evaluates the model’s ability to distinguish between approved and rejected applicants.
   - Classification Report: Provides precision, recall, and F1-score for each class.
+
+# Libraries Used
+  - pandas, numpy - Data manipulation and processing
+  - sklearn - Machine learning models, preprocessing, and evaluation
+  - matplotlib, seaborn - Data visualization
+  - xgboost - Extreme Gradient Boosting algorithm
