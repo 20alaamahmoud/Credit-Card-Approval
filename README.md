@@ -37,3 +37,8 @@ Two models were trained and evaluated:
   - sklearn - Machine learning models, preprocessing, and evaluation
   - matplotlib, seaborn - Data visualization
   - xgboost - Extreme Gradient Boosting algorithm
+
+# Conclusion
+  - This project successfully builds a machine learning pipeline for predicting credit card approvals.
+  - XGBoost provides superior performance over Gradient Boosting, making it the preferred model.
+  - The insights from this model can help financial institutions make data-driven credit approval decisions.
